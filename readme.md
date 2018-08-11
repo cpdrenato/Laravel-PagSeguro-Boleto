@@ -2,5 +2,5 @@
 
 ## Sobre Projeto
 
-Projeto exemplo de uso do PagSeguro com Boleto no Laravel
+Projeto que utiliza a biblioteca do PagSeguro com o Larave, atualmente conta com a geração de boleto pelo PagSeguro
 
